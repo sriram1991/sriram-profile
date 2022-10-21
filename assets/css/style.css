@@ -1190,3 +1190,8 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.aws-badge {
+    margin-top: -80px;
+    width: 90px;
+}
